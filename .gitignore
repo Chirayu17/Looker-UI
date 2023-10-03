@@ -1,0 +1,8 @@
+# Ignore Node Modules
+node_modules
+
+# Ignore Output Bundled JS file from Webpack
+public/*.js
+
+#Local Mac Files
+**/.DS_Store/**
